@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "大輪田橋"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.17266988754272,
+          34.66363162729086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "清盛塚"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.17142534255981,
+          34.66378164405815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "金光寺"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.17288446426392,
+          34.66944237238356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "築島寺"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.17550766468048,
+          34.66832614090491
+        ]
+      }
+    }
+  ]
+}
